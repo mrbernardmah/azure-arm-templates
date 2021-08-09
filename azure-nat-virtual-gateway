@@ -45,7 +45,7 @@
       }
     },
     "natgatewayname": {
-      "defaultValue": "azure-nat-gateway",
+      "defaultValue": "azure-vpn-server-nat-gateway",
       "type": "String",
       "metadata": {
         "description": "Name of the NAT gateway"
@@ -66,7 +66,7 @@
       }
     },
     "nsgname": {
-      "defaultValue": "azure-vpn-server-nsg",
+      "defaultValue": "azure-vpn-nsg",
       "type": "String",
       "metadata": {
         "description": "Name of the virtual machine NSG"
