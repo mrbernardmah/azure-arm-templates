@@ -66,7 +66,7 @@
       }
     },
     "nsgname": {
-      "defaultValue": "myVMnsg",
+      "defaultValue": "azure-vpn-server-nsg",
       "type": "String",
       "metadata": {
         "description": "Name of the virtual machine NSG"
